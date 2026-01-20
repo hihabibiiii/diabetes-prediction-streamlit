@@ -7,7 +7,7 @@ The app predicts whether a person is **diabetic or not** based on medical input 
 ---
 
 ## 🚀 Live Demo
-👉 (Add Streamlit link here after deployment)
+https://diabetes-prediction-app-l56bgljcyciszgkidjtcar.streamlit.app/
 
 ---
 
